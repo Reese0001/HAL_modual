@@ -1,0 +1,10 @@
+{
+  "source": {
+    "sourceType": "Example_stm32cubeide",
+    "sourceId": "EEPROM_Emulation"
+  },
+  "device": "STM32F446RET7",
+  "core": "Cortex-M4",
+  "order": 0,
+  "toolchain": "GCC"
+}
